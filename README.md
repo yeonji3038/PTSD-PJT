@@ -73,7 +73,7 @@
 ## 시스템 아키텍쳐
 <br>
 
-<img src="image/system architecture.png" width="600"> 
+<img src="image/ptsdak.png" width="600"> 
 
 <br>
 
